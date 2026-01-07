@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+target/
+*.iml
+.idea/
+*.class
+*.jar
+*.war
+.env
