@@ -11,9 +11,9 @@
 # 项目介绍
 TopTicket 订票服务系统提供了可以在线上对相应的节目（包括：演唱会、话剧歌剧、体育比赛、儿童亲子）进行订票的功能，用户可以进行注册，登录，然后选择节目和座位后进行购票，支付，以及查询自己的订单功能
 
-- **TopTicket 项目在线体验：** [👉 点击进行体验](https://www.damai-javaup.chat)
+- **TopTicket 项目在线体验：** [👉 点击进行体验](https://github.com/AlanSmithDev)
 
-- **TopTicket 项目详细讲解：** [👉 点击查看讲解](https://www.javaup.chat)
+- **TopTicket 项目详细讲解：** [👉 点击查看讲解](https://github.com/AlanSmithDev)
 
 # 项目优势
 
@@ -75,13 +75,13 @@ TopTicket 订票服务系统提供了可以在线上对相应的节目（包括�
 
 通过以上设计，来实现应对高并发、高吞吐的能力，以及海量数据的存储和服务状态的监控
 
-![](https://multimedia-javaup.cn/%E6%9E%B6%E6%9E%84%E5%9B%BE/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E5%9B%BE%28%E5%8A%A8%E6%80%81%E4%BC%98%E5%8C%96%29.gif)
+![](https://github.com/AlanSmithDev)
 
 # 业务结构
 
 通过此业务结构图进一步详细的介绍项目中的功能，包括：**服务配置**、**技术选型**、**核心业务**、**设计组件**、**中间件的使用**、**监控方式**、**高并发解决策略** 等各个方面，方便大家能够对 TopTicket 项目的整体架构和设计有一个清晰的认知
 
-![](https://multimedia-javaup.cn/%E6%9E%B6%E6%9E%84%E5%9B%BE/%E9%A1%B9%E7%9B%AE%E4%B8%9A%E5%8A%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%9B%BE%28%E4%BC%98%E5%8C%96%29.png)
+![](https://github.com/AlanSmithDev)
 
 # 技术选型
 
@@ -125,13 +125,13 @@ TopTicket 订票服务系统提供了可以在线上对相应的节目（包括�
 
 除了组件库外，还有对**异常的处理、数据的封装格式、多线程的使用等等也都要进行相应的封装设计**，这些在项目中同样具备
 
-![](https://multimedia-javaup.cn/%E6%9E%B6%E6%9E%84%E5%9B%BE/%E7%BB%84%E4%BB%B6%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![](https://github.com/AlanSmithDev)
 
 # 业务流程
 
 对于 TopTicket 项目来说，核心的业务就是用户选择节目然后进行购票功能了，项目中不仅完整了对整个业务流程的完整闭环，而且考虑到既然设计此项目是为了应对高并发的特点，那么在从业务的角度上也做了很多的优化设计
 
-![](https://multimedia-javaup.cn/%E6%9E%B6%E6%9E%84%E5%9B%BE/%E4%B8%9A%E5%8A%A1%E5%9B%BE%E4%BC%98%E5%8C%96.png)	
+![](https://github.com/AlanSmithDev)	
 
 # 项目的亮点质量高吗
 
@@ -220,30 +220,30 @@ TopTicket 订票服务系统提供了可以在线上对相应的节目（包括�
 
 所以针对上述说的这种疑难杂症，特意开发出了 damai 项目的升级版本：<font size="5" color="#5575f6"> **TopTicket Pro** </font>
 
-### TopTicket Pro详细介绍：[👉 点击查看讲解](https://javaup.chat/damai/damai-pro/release-intro)
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6pro/%E6%9E%B6%E6%9E%84%E9%9A%BE%E7%82%B9%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.png)
+### TopTicket Pro详细介绍：[👉 点击查看讲解](https://github.com/AlanSmithDev)
+![](https://github.com/AlanSmithDev)
 
 # 项目展示
 
 为了尽可能的还原，本项目尽可能贴近官网的页面设计和业务流程，小伙伴可以通过前端项目一边来学习业务，一边体会业务中调取了哪些后端接口，这种学习方式是简单且高效的，也建议小伙伴在学习公司的业务时也使用这种方式
 
 ### 主页列表
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E4%B8%BB%E9%A1%B5%E5%88%97%E8%A1%A8-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 ### 分类列表
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E5%88%86%E7%B1%BB%E5%88%97%E8%A1%A8-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 ### 节目详情
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E8%8A%82%E7%9B%AE%E8%AF%A6%E6%83%85-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 ### 生成订单
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E7%94%9F%E6%88%90%E8%AE%A2%E5%8D%95-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 ### 订单列表
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E8%AE%A2%E5%8D%95%E5%88%97%E8%A1%A8-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 ### 订单详情
-![](https://multimedia-javaup.cn/%E5%A4%A7%E9%BA%A6%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE%E6%B8%85%E6%99%B0/%E5%A4%A7%E9%BA%A6%E6%88%AA%E5%9B%BE-%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85-%E6%B8%85%E6%99%B0.png)
+![](https://github.com/AlanSmithDev)
 
 
 # 小伙伴的疑惑
@@ -265,11 +265,11 @@ TopTicket 订票服务系统提供了可以在线上对相应的节目（包括�
 包括对 **项目从0到1的讲解**、**项目的细节和亮点总结**、**遇到的面试真题**、**详细的各种优化后的压测报告**、**如何将项目有亮点的写到简历上**。并且提供后续的答疑解惑，小伙伴在学习项目时遇到没有理解的问题，或者面试过程中遇到的问题都可以在社区中进行反馈，本人会进行详细的分析解答
 
 # 如何启动项目
-- [准备项目启动条件](https://javaup.chat/damai/getting-started/prerequisites)
-- [如何安装项目需要的中间件环境](https://javaup.chat/damai/getting-started/install-dependencies)
-- [后端项目部署启动](https://javaup.chat/damai/getting-started/backend-deploy)
-- [前端项目部署启动](https://javaup.chat/damai/getting-started/frontend-deploy)
+- [准备项目启动条件](https://github.com/AlanSmithDev)
+- [如何安装项目需要的中间件环境](https://github.com/AlanSmithDev)
+- [后端项目部署启动](https://github.com/AlanSmithDev)
+- [前端项目部署启动](https://github.com/AlanSmithDev)
 
 # 文档和视频目录
-![](https://multimedia-javaup.cn/%E6%9E%B6%E6%9E%84%E5%9B%BE/%E6%96%87%E6%A1%A3%E7%9B%AE%E5%BD%95.png)
+![](https://github.com/AlanSmithDev)
 
